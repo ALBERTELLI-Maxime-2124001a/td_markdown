@@ -34,12 +34,14 @@ L'exercie 3 consiste en l'affichage des 10 premiers entiers naturels séparés p
 ---
 ### Exercice 4:
 
-L'exercice consiste en l'affichage des 200 premiers entiers naturels séparés par une tabulation
+L'exercice 4 consiste en l'affichage des 200 premiers entiers naturels séparés par une tabulation
 
 ---
 ### Exercice 5:
 
+L'exercice 5 consiste en l'affichage d'un nombre d'entiers naturels saisi préalablement par l'utilisateurs.
 
+---
 ### Exercice 6:
 ### Exercice 7:
 ### Exercice 8:

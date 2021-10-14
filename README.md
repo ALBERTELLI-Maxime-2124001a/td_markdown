@@ -1,2 +1,2 @@
 # td_markdown
-Repo pour le td1.2 sur markdown
+## README pour le tp1 de c++

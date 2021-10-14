@@ -47,4 +47,4 @@ L'exercice consiste en l'affichage des 200 premiers entiers naturels séparés p
 ### Exercice 10:
 ### Exercice 11:
 
-Lien du Fandom sur Zelda Wind Waker (faut bien remplir UwU): [ZELDA](https://zelda-the-wind-waker.fandom.com/fr/wiki/Wiki_The_Legend_of_Zelda_:_The_Wind_Waker "ZELDA")
+Lien du Fandom sur Zelda Wind Waker (faut bien remplir UwU): [ZELDA](https://zelda-the-wind-waker.fandom.com/fr/wiki/Wiki_The_Legend_of_Zelda_:_The_wind_waker "ZELDA")
